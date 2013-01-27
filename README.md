@@ -2,8 +2,9 @@ DeLorean-Ipsum
 ==============
 
 The Back To The Future Lorem Ipsum Generator
+http://www.deloreanipsum.com/
 
-http://www.deloreanipsum.com/ - Copyright (c) 2013 Polevaultweb
+Copyright (c) 2013 Polevaultweb http://www.polevaultweb.com/
 
 ## Example Usage
 ```html
