@@ -9,7 +9,7 @@ Copyright (c) 2013 Polevaultweb http://www.polevaultweb.com/
 ## Example Usage
 ```html
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-<script src="jquery.delorean.min.js"></script>
+<script src="jquery.delorean.ipsum.min.js"></script>
 <script>
   $('#demo-output').delorean({ type: 'paragraphs', amount: 5, character: '', tag:  'p' });
 </script>
