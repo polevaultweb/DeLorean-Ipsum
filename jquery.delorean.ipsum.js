@@ -187,7 +187,7 @@
 	delorean[163] =  { "character": "Mother & Father", "line": "Ahh."};
 	delorean[164] =  { "character": "Father", "line": "Children."};
 	delorean[165] =  { "character": "Marty", "line": "Listen, woh. Hello, uh excuse me. Sorry about your barn."};
-	delorean[166] =  { "character": "Son", "line": "It's already mutated intro human form, shoot it."};
+	delorean[166] =  { "character": "Son", "line": "It's already mutated into human form, shoot it."};
 	delorean[167] =  { "character": "Father", "line": "Take that you mutated son-of-a-bitch. My pine, why you. You space bastard, you killed a pine."};
 	delorean[168] =  { "character": "Marty", "line": "Alright, alright, okay McFly, get a grip on yourself. It's all a dream. Just a very intense dream. Woh, hey, listen, you gotta help me."};
 	delorean[169] =  { "character": "Passenger", "line": "Don't stop, Wilbert, drive."};
