@@ -1,5 +1,5 @@
 /*
-* DeLorean Ipsum v1.0.1
+* DeLorean Ipsum v1.0.2
 * http://www.deloreanipsum.com/
 *
 * Copyright 2013, Polevaultweb
@@ -401,7 +401,7 @@
 	delorean[377] =  { "character": "Marty", "line": "What, well you mean like a date?"};
 	delorean[378] =  { "character": "Doc", "line": "Right."};
 	delorean[379] =  { "character": "Marty", "line": "What kind of date? I don't know, what do kids do in the fifties?"};
-	delorean[380] =  { "character": "Doc", "line": "Well, they're your parents, you must know them. What are there common interests. What do they like to do together?"};
+	delorean[380] =  { "character": "Doc", "line": "Well, they're your parents, you must know them. What are their common interests, what do they like to do together?"};
 	delorean[381] =  { "character": "Marty", "line": "Nothing."};
 	delorean[382] =  { "character": "Doc", "line": "Look, there's a rhythmic ceremonial ritual coming up."};
 	delorean[383] =  { "character": "Marty", "line": "Of course, the Enchantment Under The Sea Dance they're supposed to go to this, that's where they kiss for the first time."};

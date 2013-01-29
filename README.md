@@ -23,6 +23,8 @@ Copyright (c) 2013 Polevaultweb http://www.polevaultweb.com/
 - perPara: Number of sentences per paragraphs. Default - 5.
 
 ## Changelog
+
+### 1.0.2 (January 29, 2013)
 ### 1.0.1 (January 29, 2013)
 
 * Script fixes - spelling mistakes
