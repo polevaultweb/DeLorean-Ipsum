@@ -21,3 +21,12 @@ Copyright (c) 2013 Polevaultweb http://www.polevaultweb.com/
 - Tag: HTML tag to wrap around the output. Default - 'p'
 - Character: Marty, Doc, Biff etc. Leave blank for all characters. Default - 'all'.
 - perPara: Number of sentences per paragraphs. Default - 5.
+
+## Changelog
+### 1.0.1 (January 29, 2013)
+
+* Script fixes - spelling mistakes
+
+### 1.0 (January 27, 2013)
+
+* Initial Commit

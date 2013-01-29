@@ -1,5 +1,5 @@
 /*
-* DeLorean Ipsum v1.0
+* DeLorean Ipsum v1.0.1
 * http://www.deloreanipsum.com/
 *
 * Copyright 2013, Polevaultweb
@@ -132,8 +132,8 @@
 	delorean[108] =  { "character": "Doc", "line": "Marty, you made it."};
 	delorean[109] =  { "character": "Marty", "line": "Yeah."};
 	delorean[110] =  { "character": "Doc", "line": "Welcome to my latest experiment. It's the one I've been waiting for all my life."};
-	delorean[111] =  { "character": "Marty", "line": "Um, well it's a deloreon, right?"};
-	delorean[112] =  { "character": "Doc", "line": "Bare with me, Marty, all of your questions will be answered. Roll tape, we'll proceed."};
+	delorean[111] =  { "character": "Marty", "line": "Um, well it's a delorean, right?"};
+	delorean[112] =  { "character": "Doc", "line": "Bear with me, Marty, all of your questions will be answered. Roll tape, we'll proceed."};
 	delorean[113] =  { "character": "Marty", "line": "Doc, is that a de-"};
 	delorean[114] =  { "character": "Doc", "line": "Never mind that now, never mind that now."};
 	delorean[115] =  { "character": "Marty", "line": "Alright, I'm ready."};
@@ -148,7 +148,7 @@
 	delorean[124] =  { "character": "Doc", "line": "Calm down, Marty, I didn't disintegrate anything. The molecular structure of Einstein and the car are completely intact."};
 	delorean[125] =  { "character": "Marty", "line": "Where the hell are they."};
 	delorean[126] =  { "character": "Doc", "line": "The appropriate question is, weren't the hell are they. Einstein has just become the world's first time traveler. I sent him into the future. One minute into the future to be exact. And at exactly 1:21 a.m. we should cat h up with him and the time machine."};
-	delorean[127] =  { "character": "Marty", "line": "Wait a minute, wait a minute, Doc, are you telling me that you built a time machine out of a deloreon."};
+	delorean[127] =  { "character": "Marty", "line": "Wait a minute, wait a minute, Doc, are you telling me that you built a time machine out of a delorean."};
 	delorean[128] =  { "character": "Doc", "line": "The way I see it, if you're gonna build a time machine into a car why not do it with some style. Besides, the stainless, steel construction made the flux dispersal- look out."};
 	delorean[129] =  { "character": "Marty", "line": "What, what is it hot?"};
 	delorean[130] =  { "character": "Doc", "line": "It's cold, damn cold. Ha, ha, ha, Einstein, you little devil. Einstein's clock is exactly one minute behind mine, it's still ticking."};
