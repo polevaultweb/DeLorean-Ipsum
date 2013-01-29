@@ -2,6 +2,8 @@
 * DeLorean Ipsum v1.0.2
 * http://www.deloreanipsum.com/
 *
+* The Back To The Future script is copyright (c), Universal Studios & Bob Gale and used here as part of Fair Use.
+*
 * Copyright 2013, Polevaultweb
 * http://www.polevaultweb.com/
 * Free to use and abuse under the MIT license.

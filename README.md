@@ -4,6 +4,8 @@ DeLorean-Ipsum
 The Back To The Future Lorem Ipsum Generator
 http://www.deloreanipsum.com/
 
+The Back To The Future script is copyright (c), Universal Studios & Bob Gale and used here as part of Fair Use.
+
 Copyright (c) 2013 Polevaultweb http://www.polevaultweb.com/
 
 ## Example Usage
