@@ -48,7 +48,7 @@
 	delorean[22] =  { "character": "Jennifer", "line": "Marty, don't go this way. Strickland's looking for you. If you're caught it'll be four tardies in a row."};
 	delorean[23] =  { "character": "Jennifer", "line": "Alright, c'mon, I think we're safe."};
 	delorean[24] =  { "character": "Marty", "line": "Y'know this time it wasn't my fault. The Doc set all of his clocks twenty-five minutes slow."};
-	delorean[25] =  { "character": "Strickland", "line": "Doc? Am I to understand you're still hanging around with Doctor Emmett Brown, McFly? Tardy slip for you, Miss Parker. And one for you McFly I believe that makes four in a row. Now let me give you a nickle's worth of advice, young man. This so called Doctor Brown is dangerous, he's a real nuttcase. You hang around with him you're gonna end up in big trouble."};
+	delorean[25] =  { "character": "Strickland", "line": "Doc? Am I to understand you're still hanging around with Doctor Emmett Brown, McFly? Tardy slip for you, Miss Parker. And one for you McFly I believe that makes four in a row. Now let me give you a nickle's worth of advice, young man. This so called Doctor Brown is dangerous, he's a real nutcase. You hang around with him you're gonna end up in big trouble."};
 	delorean[26] =  { "character": "Marty", "line": "Oh yes sir."};
 	delorean[27] =  { "character": "Strickland", "line": "You got a real attitude problem, McFly. You're a slacker. You remind me of you father when he went her, he was a slacker too."};
 	delorean[28] =  { "character": "Marty", "line": "Can I go now, Mr. Strickland?"};
