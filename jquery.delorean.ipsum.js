@@ -633,7 +633,7 @@
 	delorean[607] =  { "character": "Marty", "line": "Listen, I gotta go but I wanted to tell you that it's been educational."};
 	delorean[608] =  { "character": "Lorraine", "line": "Marty, will we ever see you again?"};
 	delorean[609] =  { "character": "Marty", "line": "I guarantee it."};
-	delorean[610] =  { "character": "George", "line": "Well, Marty, I want to thank you for all your good advise, I'll never forget it."};
+	delorean[610] =  { "character": "George", "line": "Well, Marty, I want to thank you for all your good advice, I'll never forget it."};
 	delorean[611] =  { "character": "Marty", "line": "Right, George. Well, good luck you guys. Oh, one other thing, if you guys ever have kids and one of them when he's eight years old, accidentally sets fire to the living room rug, be easy on him."};
 	delorean[612] =  { "character": "George", "line": "Okay."};
 	delorean[613] =  { "character": "Lorraine", "line": "Marty, such a nice name."};
