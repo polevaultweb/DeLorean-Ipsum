@@ -168,7 +168,7 @@
 	delorean[142] =  { "character": "Doc", "line": "Of course, from a group of Libyan Nationalists. They wanted me to build them a bomb, so I took their plutonium and in turn gave them a shiny bomb case full of used pinball machine parts."};
 	delorean[143] =  { "character": "Marty", "line": "Jesus."};
 	delorean[144] =  { "character": "Doc", "line": "Let's get you into a radiation suit, we must prepare to reload."};
-	delorean[145] =  { "character": "Doc", "line": "Safe now, everything's let lined. Don't you lose those tapes now, we'll need a record. Wup, wup, I almost forgot my luggage. Who knows if they've got cotton underwear in the future. I'm allergic to all synthetics."};
+	delorean[145] =  { "character": "Doc", "line": "It's safe now. Everything's lead lined. Don't you lose those tapes now, we'll need a record. Wup, wup, I almost forgot my luggage. Who knows if they've got cotton underwear in the future. I'm allergic to all synthetics."};
 	delorean[146] =  { "character": "Marty", "line": "The future, it's where you're going?"};
 	delorean[147] =  { "character": "Doc", "line": "That's right, twenty five years into the future. I've always dreamed on seeing the future, looking beyond my years, seeing the progress of mankind. I'll also be able to see who wins the next twenty-five world series."};
 	delorean[148] =  { "character": "Marty", "line": "Uh, Doc."};
