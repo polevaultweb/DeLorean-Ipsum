@@ -360,7 +360,7 @@
 	delorean[334] =  { "character": "Marty", "line": "We do now."};
 	delorean[335] =  { "character": "Doc", "line": "This is it. This is the answer. It says here that a bolt of lightning is gonna strike the clock tower precisely at 10:04 p.m. next Saturday night. If we could somehow harness this bolt of lightning, channel it into the flux capacitor, it just might work. Next Saturday night, we're sending you back to the future."};
 	delorean[336] =  { "character": "Marty", "line": "Okay, alright, Saturday is good, Saturday's good, I could spend a week in 1955. I could hang out, you could show me around."};
-	delorean[337] =  { "character": "Doc", "line": "Marty, that's completely out of the question, you must not leave this house. you must not see anybody or talk to anybody. Anything you do could have serious reprocautions on future events. Do you understand?"};
+	delorean[337] =  { "character": "Doc", "line": "Marty, that's completely out of the question, you must not leave this house. you must not see anybody or talk to anybody. Anything you do could have serious repercussions on future events. Do you understand?"};
 	delorean[338] =  { "character": "Marty", "line": "Yeah, sure, okay."};
 	delorean[339] =  { "character": "Doc", "line": "Marty, you interacted with anybody else today, besides me?"};
 	delorean[340] =  { "character": "Marty", "line": "Um, yeah well I might have sort of ran into my parents."};
