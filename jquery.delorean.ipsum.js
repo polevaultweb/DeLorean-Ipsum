@@ -417,7 +417,7 @@
 	delorean[391] =  { "character": "Marty", "line": "Uh no, not hard at all. So anyway, George, now Lorraine, she really likes you. She told me to tell you that she wants you to ask her to the Enchantment Under The Sea Dance."};
 	delorean[392] =  { "character": "George", "line": "Really."};
 	delorean[393] =  { "character": "Marty", "line": "oh yeah, all you gotta do is go over there and ask her."};
-	delorean[394] =  { "character": "George", "line": "What, right here right now in the cafeteria? What is she said no? I don't know if I could take that kind of rejection. Besides, I think she'd rather go with somebody else."};
+	delorean[394] =  { "character": "George", "line": "What, right here right now in the cafeteria? What if she said no? I don't know if I could take that kind of rejection. Besides, I think she'd rather go with somebody else."};
 	delorean[395] =  { "character": "Marty", "line": "Who?"};
 	delorean[396] =  { "character": "George", "line": "Biff."};
 	delorean[397] =  { "character": "Biff", "line": "C'mon, c'mon."};
